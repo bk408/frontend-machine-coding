@@ -1,3 +1,10 @@
+
+
+# Problem Statement:
+
+ Task: 🎨 Implement a performance optimization technique inside a react app by creating a custom hook called use throttle. 🚀 #React #Optimization 🔄
+
+
 # useThrottle Hook
 
 🌟 Initialize State
