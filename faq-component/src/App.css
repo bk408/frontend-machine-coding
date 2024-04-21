@@ -1,0 +1,29 @@
+.faq-box {
+  background-color: lightgray;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.question {
+  font-weight: bold;
+  display: flex;
+  justify-content: left;
+}
+
+button {
+  outline: none;
+  border: none;
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.answer {
+  margin: 5px;
+  color: darkmagenta;
+  font-weight: bold;
+}
+
+.arrow {
+  transform: rotate(180deg);
+}
