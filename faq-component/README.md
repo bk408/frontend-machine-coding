@@ -1,3 +1,8 @@
+# Prompt Image
+
+![faq-component-1](https://github.com/bk408/frontend-machine-coding/assets/116827830/098409c0-b755-4b02-95bb-e95d0fb6b5d9)
+
+
 # Prompt
 
 🚀 Create a re-usable "Frequently Asked Questions" component
@@ -12,6 +17,3 @@
 4. Clicking a question again should hide the answer
 5. The first answer should be revealed by default
 
-# Prompt Image
-
-"https://frontendeval.com/images/faq-component-1.png"
